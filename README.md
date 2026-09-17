@@ -18,6 +18,6 @@ Details of each project are below!
 - Built a game from scratch using a toggle stick, setting up boundary limits and implementing a functionality for the game
 - A point needs to stay between two boundaries and if it exceeds any of these lower or higher boundaries, the game will reset and prompt you to start
 ## Project 4: Light Indication Test (From microcontrollers class)
-## Project 5: Mechanical Redesigning of Testing Aid (No Correlated Image)
+## Project 5: Mechanical Redesigning of Testing Aid (No Correlated PDF)
 - An aid we used for testing on the manufacturing floor was experiencing repeated breaking at a joint, I was tasked with redesigning the aid in SolidWorks while maintaining specs and functionality, to prevent this common failure.
 - Introduced design changes that improved structural support and executed repeatability testing with the aid to ensure the new design change had solved the issue before committing the design change into production
