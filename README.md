@@ -33,4 +33,9 @@ Details of each project are below!
 - Created a custom Tri-Bladed Fan to be placed onto a motor to make a functional fan.
 - Created two custom gears that had a 2/1 gear ratio 
 - Created a fully customized Headphone Holder that would hang off my desk, creating a custom 3D printed screw and threaded hole for fixation to the table
-## Project 8:
+## Project 8: Modeling Random Direction of Molecules in Diffusion
+- Developed a MATLAB simulation modeling 2D random walks through randomized step directions, tracking molecular trajectories over 1,000 and 5,000 steps.
+- Implemented Monte Carlo trials and iterative averaging to analyze displacement ratios, achieving convergence to a theoretical ratio of 5 within a 0.01 tolerance.
+## Project 9: Sundew Dx - Lung Cancer Detection Device Start Up
+- Built a Start Up from the ground up, developing a Biosensing RNA Aptamer at home diagnostic device to fill the need for early lung cancer detection
+- Played a key role in building a team, Business Model, Executive Summary, Funding Schemes, Market Evaluations, Pitch Decks, R&D Engineering, and Value Proposition documents
