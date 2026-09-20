@@ -1,6 +1,6 @@
 # Projects
 
-Welcome! These are a collection of all the projects I have done throughout my life, enjoy!
+Welcome! Below is a brief description of all the projects I have done throughout my life, enjoy!
 
 I have added images of each project as a respective PDF, feel free to check it out!
 
