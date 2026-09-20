@@ -3,7 +3,6 @@
 Welcome! These are a collection of all the projects I have done throughout my life, enjoy!
 
 I have added images of each project as a respective PDF, feel free to check it out!
-Details of each project are below!
 
 To access the PDFs I have put together of each project, please navigate to the respective branch titled the Project you wish to view!
 
