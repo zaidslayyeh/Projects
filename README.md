@@ -5,6 +5,7 @@ Welcome to Project 8!
 I welcome you to look at the PDFs provided, showing you what I was able to accomplish!
 
 ## PDF Navigation
+-The headers below show the file title names and below the headers are the specific file types that are associated with each file name and some additional details
 
 ### tGT-OCT Report
 - This PDF is the Journal Article type report I had written
