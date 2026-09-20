@@ -1,4 +1,4 @@
-# Projects
+# Project 6
 
 Welcome to Project 6!
 
