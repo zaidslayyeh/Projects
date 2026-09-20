@@ -25,7 +25,7 @@ To access the PDFs I have put together of each project, please navigate to the r
 - Introduced design changes that improved structural support and executed repeatability and drop testing with the aid to ensure the new design change had solved the issue before committing the design change into production
 - Set up the .STL file along with the specific material, infill percentage, and printing orientation required for strength needs
 ## Project 5: tGT-OCT via 3D Unsupervised Deep Learning Processing and Data - Journal Article
-- Deep dove to understand a high level journal article about clearing noice in Optical Coherence Tomography scans
+- Deep dove to understand a high level journal article about clearing noice using AI in Optical Coherence Tomography scans
 - Involved learning the intricate details about Neural Networks, Scalars, Transformation Matrix',Corrective Feedback loops, and Training Data to become a SME on the material and presented for 35 minutes to the professor and class on this Journal Article
 ## Project 6: Bone Scaffold Journal Review Article - Polymeric Osteoconductive Bone scaffolds: Synthetic and natural polymers used for bone regeneration
 - Completed a 13 Page Journal Review Article, reviewing over 87 Journal Articles to find all the methods of Bone Scaffolding Methods
