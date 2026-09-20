@@ -5,8 +5,6 @@ Welcome! These are a collection of all the projects I have done throughout my li
 I have added images of each project as a respective PDF, feel free to check it out!
 Details of each project are below!
 
-To access the PDFs I have put together of each project, please navigate to the respective branch titled the Project you wish to view!
-
 ## Project 1: Senior Design Project
 - Designed a Hello Robot Stretch 3 mobile manipulator with a custom myoelectric (EMG) control interface, enabling semi-autonomous "human-in-the-loop" robotic operation
 - Made to assist in feeding of individuals with upper limb mobility impairments
